@@ -377,7 +377,7 @@ Featured Tours
   line-height: 0;
   margin-bottom: 0;
   text-transform: capitalize;
-  color: var(--clr-primary-5);
+  color: var(--clr-primary-1);
 }
 .tour-footer p span {
   margin-right: 0.25rem;
